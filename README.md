@@ -1,7 +1,19 @@
-# ToDoApp — Application de gestion de tâches
+# SAE DEV3.1
 
-Application de gestion de tâches permettant de créer, modifier et supprimer des rappels.  
-**Contenu :** ajout de tâches · gestion des priorités · suivi de l'état des tâches  
-**Stack :** Java
+## Pour Compiler
+Sur Windows :
+- `make winrun` pour compiler et exécuter
+- `make winclean` : pour vider le répertoire build
 
-> Projet académique — BUT Informatique
+Sur Linux :
+- `make run` pour compiler et exécuter
+- `make compile` pour seulement compiler
+- `make clean` : pour vider le répertoire build
+
+## Petites règles (pitié) :
+- Pas de .class dans le git
+- git pull avant de travailler
+- la gestion des exceptions est-elle faite ?
+- TOUT attribut/classe doit être soit private, soit public
+- annote quand meme votre code histoire que je puisse facilement faire la javadoc LES AMELIORATIONS COMPRISES J'EN AURAIS BESOIN
+
