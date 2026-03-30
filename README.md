@@ -8,9 +8,8 @@ Application de gestion de tâches permettant de créer, modifier et supprimer de
 
 
 
-# SAE DEV3.1
+# Commandes du Makefile
 
-## Pour Compiler
 Sur Windows :
 - `make winrun` pour compiler et exécuter
 - `make winclean` : pour vider le répertoire build
